@@ -218,6 +218,6 @@ Projeto desenvolvido para a disciplina:
 
 # 👨‍💻 Integrantes da Equipe
 
-Maria Fernanda Santos Mendes - 2TDSPI
-Beatriz de Sousa Franco - 2TDSPI
-Giovana Souza Vieira - 2TDSPI
+- Maria Fernanda Santos Mendes - 2TDSPI
+- Beatriz de Sousa Franco - 2TDSPI
+- Giovana Souza Vieira - 2TDSPI
